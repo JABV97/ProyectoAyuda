@@ -1,0 +1,184 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\csc.exe
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\vbc.exe
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\WebFacturaMvc.dll.config
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\WebFacturaMvc.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\WebFacturaMvc.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Helpers.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Mvc.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Razor.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Webpages.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Razor.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Webpages.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Helpers.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\System.Web.Mvc.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\es\System.Web.Razor.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\obj\Debug\WebFacturaMvc.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\obj\Debug\WebFacturaMvc.Traducciones.textos.resources
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\obj\Debug\WebFacturaMvc.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\obj\Debug\RdlCompile.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\obj\Debug\RdlCompile.compiled
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\obj\Debug\WebFacturaMvc.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\WebFacturaMvc\obj\Debug\WebFacturaMvc.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\csc.exe
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\vbc.exe
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\WebFacturaMvc.dll.config
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\WebFacturaMvc.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\WebFacturaMvc.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Helpers.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Mvc.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Razor.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Razor.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Helpers.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Mvc.xml
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Razor.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.Traducciones.textos.resources
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\RdlCompile.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\RdlCompile.compiled
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\csc.exe
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\vbc.exe
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\WebFacturaMvc.dll.config
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\WebFacturaMvc.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\WebFacturaMvc.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Entity.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Neg.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Helpers.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Mvc.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Razor.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Dao.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Entity.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Neg.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Razor.xml
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.xml
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Helpers.xml
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\System.Web.Mvc.xml
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Dao.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.Traducciones.textos.resources
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.csproj.GenerateResource.Cache
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\obj\Debug\WebFacturaMvc.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\WebFacturaMvc\bin\Model.Neg.dll.config

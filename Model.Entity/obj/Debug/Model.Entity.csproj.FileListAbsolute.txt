@@ -1,0 +1,14 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.pdb

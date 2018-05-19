@@ -1,0 +1,29 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\Jorge\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll.config
